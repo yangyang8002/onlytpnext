@@ -35,10 +35,10 @@
 
 🔧 技术信息
 
-项目	版本	
-Minecraft	1.21.1	
-Fabric Loader	≥0.17.0	
-Fabric API	0.116.4+1.21.1	
+项目	版本	  
+Minecraft	1.21.1	  
+Fabric Loader	≥0.17.0	  
+Fabric API	0.116.4+1.21.1  	
 构建工具	Fabric Loom 1.11.5	
 
 ---
